@@ -25,10 +25,10 @@
     そこで、目標に向けて動いているユーザーにも使用してもらうために、一日のスケジュール管理機能を個別のマイページ機能として実装する。  
     （1日の過ごし方として、ほかユーザーに共有できれば尚よい）
 
-　- 自分の紹介・登録内容にどれだけの興味を持った人がいたか、足跡・いいね機能の実装
+* 自分の紹介・登録内容にどれだけの興味を持った人がいたか、足跡・いいね機能の実装
 
 ### 実装機能リストURL
-  - https://docs.google.com/spreadsheets/d/10UnXXcjVL0HU8s-_bBq41aNilvaVd3pSwKrX-Z9Xb9s/edit?usp=sharing
+* https://docs.google.com/spreadsheets/d/10UnXXcjVL0HU8s-_bBq41aNilvaVd3pSwKrX-Z9Xb9s/edit?usp=sharing
 
 ## 設計書
 <...>
